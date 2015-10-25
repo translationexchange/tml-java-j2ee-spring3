@@ -1,9 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.translationexchange</groupId>
 	<artifactId>tml-spring3</artifactId>
-	<version>0.2.1-SNAPSHOT</version>
+	<version>0.2.1</version>
 	<packaging>jar</packaging>
 
 	<name>tml-struts2</name>
@@ -46,7 +46,8 @@
 		<connection>scm:git:https://github.com/translationexchange/tml-java-j2ee-spring3.git</connection>
 		<developerConnection>scm:git:https://github.com/translationexchange/tml-java-j2ee-spring3.git</developerConnection>
 		<url>https://github.com/translationexchange/tml-java-j2ee-spring3</url>
-	</scm>
+	  <tag>tml-spring3-0.2.1</tag>
+  </scm>
 
 	<properties>
 		<spring.version>3.2.13.RELEASE</spring.version>
