@@ -18,7 +18,7 @@ Add the following dependency to your pom.xml:
 <dependency>
   <groupId>com.translationexchange</groupId>
   <artifactId>tml-struts2</artifactId>
-  <version>0.2.1</version>
+  <version>0.2.2</version>
 </dependency>
 ```
 
